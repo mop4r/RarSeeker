@@ -1,5 +1,5 @@
 # RarSeeker
-- Inspired in the [RarHunt](https://github.com/FrodoSynthesis05/RarHunt) original project by [FrodoSynthesis05](https://github.com/FrodoSynthesis05)
+- Based on the [RarHunt](https://github.com/FrodoSynthesis05/RarHunt) original project by [FrodoSynthesis05](https://github.com/FrodoSynthesis05)
 - RarSeeker is a script made in Python where you can easily search for a torrent from the original RARBG database (rarbg_db.sqlite), filtering by name, size, resolution, category, etc.
 
 # Features
